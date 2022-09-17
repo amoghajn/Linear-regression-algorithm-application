@@ -5,5 +5,7 @@ Healthcare insurance charges prediction using linear regression and streamlit
 
 To use the source code you can download the cde from the git hub and use it.
 To run the code:
+pre-requisite : streamlit is used to create the web application. import streamlit before running the code.
+
 1) open the command promt and go to the floder of the file available
-2) type "streamlit run  
+2) type "streamlit run linear_regression_example.py"
