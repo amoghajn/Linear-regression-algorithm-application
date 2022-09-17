@@ -1,4 +1,4 @@
 # Linear-regression-algorithm-application
 Healthcare insurance charges prediction using linear regression and streamlit
 
-![Screenshot (35)](https://user-images.githubusercontent.com/39405799/190870728-facad1c7-6670-42c4-96fa-e94ac6331d34.png)
+![image](https://user-images.githubusercontent.com/39405799/190871274-bb5cf2d4-9851-40aa-bec4-f5af98ee659b.png)
